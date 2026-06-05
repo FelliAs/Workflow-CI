@@ -1,0 +1,5 @@
+MLProject/mlruns/
+MLProject/artifacts_temp/
+__pycache__/
+*.pyc
+.DS_Store

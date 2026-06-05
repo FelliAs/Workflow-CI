@@ -1,0 +1,14 @@
+name: memory-crisis-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+    - scikit-learn==1.9.0
+    - pandas==2.2.3
+    - numpy==2.2.6
+    - mlflow==2.22.0
+    - matplotlib==3.10.9
+    - seaborn==0.13.2
